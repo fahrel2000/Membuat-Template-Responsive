@@ -1,0 +1,45 @@
+font-size: 12px;
+margin: -lOpx 0 15px;
+text-transform: uppercase;
+
+}
+
+@media screen and (max-width: 960px) {
+
+.header {
+position:inherit;
+
+}
+
+.wrap{
+
+Width: 90%;
+margin:25px auto;
+}
+
+.sidebar{
+Width:100%;
+margin:25px 0 0;
+ﬂoatright;
+
+}
+
+.sidebar .widget{
+padding:5%;
+}
+
+nav.menu ul {
+Width: 100%:
+}
+
+nav.menu ul {
+ﬂoatinherit;
+
+}
+
+nav.menu ul |i{
+ﬂoatinherit;
+marginzo;
+
+}
+
