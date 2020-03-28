@@ -1,0 +1,50 @@
+ﬂoat:left;
+
+padding:o;
+
+width: 650px;
+
+margin:0 0 0;
+
+background: #1abc9c;
+
+-webkit-box-shadowz 1px 1px 1px 0px rgba(204,204,204,0.55);
+-moz-box-shadow: 1px 1px 1px 0px rgba(204,204,204,0.55);
+box—shadow: 1px 1px 1px 0px rgba(204,204,204,0.55);
+
+}
+
+nav.menu ul |i{
+margin:0;
+ﬂoatzleft;
+
+}
+
+nav.menu ul a {
+padding:25px;
+displayzblock;
+font-weight2600;
+
+font-size: 16px;
+
+color:#ﬁ"f;
+
+text-transform: uppercase;
+transition: all 0.55 ease;
+text-decoration: none;
+
+}
+
+nav.menu ul a:hover{
+text-decoration: underline:
+background:#16a085;
+
+}
+
+.sidebar {
+ﬂoatright;
+width:275px;
+}
+
+.sidebar .widget{
+
