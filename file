@@ -1,0 +1,46 @@
+@import ur|(https://fonts.googleapis.com/css?
+fami|y=Open+Sans:400,800,700,600,300);
+
+body {
+
+background: #eee;
+
+margin:0;
+
+font-family: 'Open Sans', sans-serif;
+
+}
+
+hr {
+
+border:0;
+background:#dedede;
+height:1px;
+
+}
+
+header{
+text-align: center:
+color: #232323;
+
+}
+
+header .judu|{
+font-size: l7pt;
+}
+
+header .deskripsi{
+font-size: llpt;
+}
+
+.wrap {
+width: 950px;
+margin:25px auto;
+
+}
+
+nav.menu ul {
+overﬂowzhidden;
+color:#f‘ff;
+list—style: none;
+
